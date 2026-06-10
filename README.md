@@ -200,7 +200,7 @@ The interactive dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard/dashboard_powerbi.png)
+![Customer Behavior Dashboard](dashboard/dashboard%20powerbi.jpeg)
 
 ---
 
